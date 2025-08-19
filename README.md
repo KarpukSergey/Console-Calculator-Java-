@@ -39,10 +39,10 @@ It demonstrates working with user input, data validation, and basic operations.
 ---
 
 ## 📂 Структура проекта / Project structure
-
-src/
-└── ConsoleCalculator.java
-
+```
+    src/
+    └── ConsoleCalculator.java
+```
 
 ---
 
@@ -50,13 +50,17 @@ src/
 1. Склонировать репозиторий / Clone the repository:
    ```bash
    git clone https://github.com/your-username/console-calculator.git
+   ```
 
 2. Перейти в папку проекта и скомпилировать / Go to the project folder and compile:
+   ``` 
    javac src/ConsoleCalculator.java -d out
-
+    ```
 3. Запустить / Launch:
+    ``` 
    java -cp out ConsoleCalculator
-
+    ```
+   
 ## 🔮 Дальнейшие улучшения / Further improvements
 
 **RU:**
